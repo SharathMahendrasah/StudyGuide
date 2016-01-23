@@ -29,3 +29,5 @@ Study Guide Answer Sheet
 14. To see what branch a user has checked out they would type in git branch in the terminal window and clicking enter. By doing so all current branches show up in a short list. The branch that you are currently on will have an asterisk next to it.
 
 15. GitHub is a way to build software amongst many people. A person can discover, use and contribute to many different projects using this development workflow. 
+
+16. Git was created because there was a need for it. After the community that developed Linux and the company that developed BitKeeper broke down a new development workflow was needed. Some reasons that were in mind when creating git were speed, simple design, strong support for non linear development, fully distributed and able to handle large projects like the Linux kernel efficiently. 
