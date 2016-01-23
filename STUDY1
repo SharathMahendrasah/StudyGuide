@@ -27,3 +27,5 @@ Study Guide Answer Sheet
 13. The primary branch in git is master. 
 
 14. To see what branch a user has checked out they would type in git branch in the terminal window and clicking enter. By doing so all current branches show up in a short list. The branch that you are currently on will have an asterisk next to it.
+
+15. GitHub is a way to build software amongst many people. A person can discover, use and contribute to many different projects using this development workflow. 
