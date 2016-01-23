@@ -14,3 +14,4 @@ Study Guide Answer Sheet
 
 7. Branches in git can exist for as long as a user wants it to. A branch will only cease to exist if a user inputs in the terminal that they no longer want the branch.
 
+8. To create a new branch a user needs in input git branch. This will create a pointer which points to the main line. This however will not switch you to the new branch. The user will still be on master branch. 
