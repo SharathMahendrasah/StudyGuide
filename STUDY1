@@ -31,3 +31,7 @@ Study Guide Answer Sheet
 15. GitHub is a way to build software amongst many people. A person can discover, use and contribute to many different projects using this development workflow. 
 
 16. Git was created because there was a need for it. After the community that developed Linux and the company that developed BitKeeper broke down a new development workflow was needed. Some reasons that were in mind when creating git were speed, simple design, strong support for non linear development, fully distributed and able to handle large projects like the Linux kernel efficiently. 
+
+17. A typical git workflow contains: anything on the master branch (which is deployable), if working on something new give a descriptive name, commit to branch locally push your work to the same named branch regular, when feedback is needed or branch might be ready for merging open a pull request, merge branch once it has been reviewed by someone else, can and should deploy once pushed to master.
+
+
