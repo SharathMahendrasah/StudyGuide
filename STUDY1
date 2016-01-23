@@ -9,3 +9,5 @@ Study Guide Answer Sheet
 4. A commit is when a user saves a document locally using git. When a user commits usually the user has to include a short comment as to what has changed since the previous iteration. 
 
 5. A git check out updates files in the directory to match the iteration of the one in the index or the edited file.
+
+6. A branch is when a user creates another iteration other than main in which that person can work on without messing with the main. This allows the user to experiment and if something goes wrong they can always go back to the main line since that was not changed.
