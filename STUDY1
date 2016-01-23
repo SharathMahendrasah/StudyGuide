@@ -20,3 +20,5 @@ Study Guide Answer Sheet
 
 10. To merge branches in git a user must first check out the branch that they wish to merge into then run the git merge command. If the merge takes place between a branch and another branch that is not it’s ancestor then there will be a three-way merge between the two branches specified and the common ancestor. 
 
+11. A user would use git status in the terminal to check the status of the files he/she is working on. To track a new file a user would input git add. If a user didn’t use the git add the file would be displayed in red in git status meaning it hasn’t been tracked.
+
