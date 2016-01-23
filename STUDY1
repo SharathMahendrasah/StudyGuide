@@ -16,4 +16,7 @@ Study Guide Answer Sheet
 
 8. To create a new branch a user needs in input git branch. This will create a pointer which points to the main line. This however will not switch you to the new branch. The user will still be on master branch. 
 
-9. To switch branches in git a user should type in “git checkout” then whatever they want the branch name to be. By doing this the user is no longer on the master branch but have switched to one they created.  
+9. To switch branches in git a user should type in “git checkout” then whatever they want the branch name to be. By doing this the user is no longer on the master branch but have switched to one they created. 
+
+10. To merge branches in git a user must first check out the branch that they wish to merge into then run the git merge command. If the merge takes place between a branch and another branch that is not it’s ancestor then there will be a three-way merge between the two branches specified and the common ancestor. 
+
