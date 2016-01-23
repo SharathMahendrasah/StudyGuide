@@ -11,3 +11,6 @@ Study Guide Answer Sheet
 5. A git check out updates files in the directory to match the iteration of the one in the index or the edited file.
 
 6. A branch is when a user creates another iteration other than main in which that person can work on without messing with the main. This allows the user to experiment and if something goes wrong they can always go back to the main line since that was not changed.
+
+7. Branches in git can exist for as long as a user wants it to. A branch will only cease to exist if a user inputs in the terminal that they no longer want the branch.
+
