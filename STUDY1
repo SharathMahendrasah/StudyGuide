@@ -3,3 +3,5 @@ Study Guide Answer Sheet
 1. Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
 2. In a distributed version control system the whole repository is fully mirrored meaning if the server goes down anyone of the client repositories can be used. Whereas if a centralized version control system were to fail then everyone and everything comes to a stop for as long as that server is down. The files are not mirrored anywhere and are just on the server for multiple people to collaborate on. 
+
+3. It allows a user or users to see what changes have been made to a project. If there was an error on a newer iteration of a commit, a person is able to go back and see where that error occurred. 
