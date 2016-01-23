@@ -24,4 +24,4 @@ Study Guide Answer Sheet
 
 12. There are two ways a user could add a file to their repository. One way is to use GitHub, go to the repository and browse to the folder where you want to create the file, click new file, on the edit new file tab add content to the line, review content by pressing preview, write a commit message and whether you want the file to be on the master branch or a new branch. The other way to add a file is through the terminal window, change directory to local repository, stage the file for first commit, commit files saved in local repository, push changes to GitHub if necessary. 
 
-
+13. The primary branch in git is master. 
