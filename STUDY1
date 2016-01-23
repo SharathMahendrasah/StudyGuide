@@ -7,3 +7,5 @@ Study Guide Answer Sheet
 3. It allows a user or users to see what changes have been made to a project. If there was an error on a newer iteration of a commit, a person is able to go back and see where that error occurred. 
 
 4. A commit is when a user saves a document locally using git. When a user commits usually the user has to include a short comment as to what has changed since the previous iteration. 
+
+5. A git check out updates files in the directory to match the iteration of the one in the index or the edited file.
