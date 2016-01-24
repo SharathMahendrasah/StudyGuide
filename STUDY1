@@ -34,4 +34,6 @@ Study Guide Answer Sheet
 
 17. A typical git workflow contains: anything on the master branch (which is deployable), if working on something new give a descriptive name, commit to branch locally push your work to the same named branch regular, when feedback is needed or branch might be ready for merging open a pull request, merge branch once it has been reviewed by someone else, can and should deploy once pushed to master.
 
+18. Git stores data differently. I’s more like a miniature filesystem since Git data is more like a set of snapshots. If something is not changed in the file then it will not save it. It basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot.
+
 
