@@ -38,4 +38,6 @@ Study Guide Answer Sheet
 
 19. The design criteria for git was that it had to be fast, simple design, have strong support for non-linear development, be fully distributed, and able to handle lard projects like the Linux kernel efficiently as well as easy to use.
 
+20. A user could use the command git log, this will bring up a list of commits that were made in the repository in reverse chronological order. This will also include the SHA-1 checksum.
+
 
