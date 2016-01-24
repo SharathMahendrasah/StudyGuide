@@ -36,4 +36,6 @@ Study Guide Answer Sheet
 
 18. Git stores data differently. I’s more like a miniature filesystem since Git data is more like a set of snapshots. If something is not changed in the file then it will not save it. It basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot.
 
+19. The design criteria for git was that it had to be fast, simple design, have strong support for non-linear development, be fully distributed, and able to handle lard projects like the Linux kernel efficiently as well as easy to use.
+
 
