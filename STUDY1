@@ -42,4 +42,6 @@ Study Guide Answer Sheet
 
 21. There should be enough information in the commit to give a person an idea of what changes were made. That way if a person who goes to work on the project after you will know what you did. Also this helps to keep everything from being confusing. Give context as to what and why you changed what you did. 
 
+22. To fix a mistake that was made in the past of a project specifically in the commit, a user can use the git commit —-amend by doing this your commit will look as if it did before you confirmed the commit. Another way would not really be how to fix it in the past but you could change branches if the problem only showed up in said branch and not master.
+
 
