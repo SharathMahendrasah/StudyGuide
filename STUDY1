@@ -40,4 +40,6 @@ Study Guide Answer Sheet
 
 20. A user could use the command git log, this will bring up a list of commits that were made in the repository in reverse chronological order. This will also include the SHA-1 checksum.
 
+21. There should be enough information in the commit to give a person an idea of what changes were made. That way if a person who goes to work on the project after you will know what you did. Also this helps to keep everything from being confusing. Give context as to what and why you changed what you did. 
+
 
